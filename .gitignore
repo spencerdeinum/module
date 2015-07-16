@@ -33,3 +33,12 @@
 
 # Vagrant
 .vagrant/
+
+# Module specific files
+.hello.ko.cmd
+.hello.mod.o.cmd
+.hello.o.cmd
+.tmp_versions/
+Module.symvers
+hello.mod.c
+modules.order
